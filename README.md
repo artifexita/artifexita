@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artifexus aka Richard West.
+- 👋 Hi, I’m @artifexita aka Richard West.
 - 👀 I’m interested in Designing the Right Thing & Designing Things Right using Systems and Design Thinking in a *truly* Agile manner.
 Oh, and I also have a 30+ years in IT, mostly contracting as an Architect, Developer and Agile coach.
 I have never stopped learning which is why my skills cover a bit of ground.
